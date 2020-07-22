@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm BenjaminJForster
 
-<!--
-**BenjaminJForster/BenjaminJForster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Open Source
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: BenjaminF#0002 on Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm born in France, but I'm English
--->
